@@ -1,3 +1,6 @@
 data/knowledge_card/kc_ref.json filter=lfs diff=lfs merge=lfs -text
 ./data/knowledge_card/kc_ref.json
 ./data/knowledge_card/kc_ref.json
+.git/lfs/objects/e1/47/e147798e1babe23110eea83d2e41230b716f53f3c7d4f14b000a080bd69c8aa0 filter=lfs diff=lfs merge=lfs -text
+./.git/lfs/objects/e1/47/e147798e1babe23110eea83d2e41230b716f53f3c7d4f14b000a080bd69c8aa0
+./data/knowledge_card/kc_ref.json
