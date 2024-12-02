@@ -4,7 +4,7 @@
 
 A LLM-base Multi-agent Collaboration Framework for Terminology Normalization Task in Social Media following "Recall and Re-rank" framwork.
 <div align="center">
-  <img src="./figure/framework.png" width="480px">
+  <img src="./figure/framework.png">
 </div>
 
 ## Dataset
