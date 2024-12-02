@@ -9,9 +9,9 @@ A LLM-base Multi-agent Collaboration Framework for Terminology Normalization Tas
 
 ## Dataset
 
-In the repository, we will provide the collated datasets and the generated knowledge cards.
+In the repository, we will provide the collated datasets and the generated knowledge cards in [data](https://github.com/JOHNNY-fans/RankNorm/tree/main/data).
 
-In particular, because of the licensing issues involved, you will need to obtain the original dataset (we used the UMLS2017ab and UMLS2023ab version in this paper) from the [UMLS](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html) website yourself and convert it via script x to end up with a usable dataset.
+In particular, because of the licensing issues involved, you will need to obtain the original dataset (we used the UMLS2017ab and UMLS2023ab version in this paper) from the [UMLS](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html) website yourself and convert it via script in [src](https://github.com/JOHNNY-fans/RankNorm/tree/main/src) to end up with a usable dataset.
 
 
 ## Citation
