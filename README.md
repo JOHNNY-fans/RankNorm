@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./figure/logo.png">
+</div>
 # RankNorm: A LLM-based Framework for Biomedical Terminology Normalization in Social Media via Multi-Agent Collaboration (COLING 2025)
 
 ## Introduction
