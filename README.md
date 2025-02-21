@@ -19,4 +19,13 @@ In particular, because of the licensing issues involved, you will need to obtain
 
 
 ## Citation
-Thank you for your interest, if you use this project, please give us a 🌟 and cite the following paper: (To be continued~)
+Thank you for your interest, if you use this project, please give us a 🌟 and cite the following paper:
+
+```bibtex 
+@inproceedings{fan2025llm,
+  title={An LLM-based Framework for Biomedical Terminology Normalization in Social Media via Multi-Agent Collaboration},
+  author={Fan, Yongqi and Xue, Kui and Li, Zelin and Zhang, Xiaofan and Ruan, Tong},
+  booktitle={Proceedings of the 31st International Conference on Computational Linguistics},
+  pages={10712--10726},
+  year={2025}
+}
